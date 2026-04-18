@@ -1,6 +1,7 @@
 # Macroeconometrics
 
 #This is a test
+#This other test
 
 # Tutorial 1  : AR Model on US Real GDP Growth
 # Author      : Juan Pablo Ugarte Checura
