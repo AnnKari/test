@@ -1,0 +1,16 @@
+Series: gdp_ts 
+ARIMA(2,0,0) with non-zero mean 
+
+Coefficients:
+         ar1     ar2    mean
+      0.2823  0.2198  2.6135
+s.e.  0.0833  0.0834  0.3485
+
+sigma^2 = 4.274:  log likelihood = -290.36
+AIC=588.71   AICc=589.02   BIC=600.36
+
+Training set error measures:
+                       ME     RMSE      MAE       MPE     MAPE      MASE
+Training set -0.003932039 2.044514 1.537439 -1.165384 97.90758 0.6714747
+                    ACF1
+Training set 0.009729516
